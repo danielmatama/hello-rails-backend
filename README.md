@@ -149,14 +149,14 @@ Heroku (Paid)
 <!-- FRONT-END REPOSITORY -->
 ## 💻 Front-end Repository <a name="frontend-repo"></a>
 
-- [Click Here](https://github.com/tashisrael/hello-react-front-end)
+- [Click Here](https://github.com/danielmatama/hello-react-frontend)
 
 - Clone this repository to your desired folder:
 
 - Example command:
 
   ```
-    git clone https://github.com/tashisrael/hello-react-front-end.git
+    git clone https://github.com/danielmatama/hello-react-backend.git
     cd hello-react-front-end
   ```
 <!-- CONTRIBUTING -->
